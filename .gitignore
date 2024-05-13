@@ -1,4 +1,2 @@
 /node_modules
 /.env
-/.amqp_producer.js
-/.amqp_consumer.js
